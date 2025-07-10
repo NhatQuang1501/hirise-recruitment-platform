@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/NhatQuang1501/hirise-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/NhatQuang1501/hirise-frontend.git
